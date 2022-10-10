@@ -1,7 +1,7 @@
  const Cheeseburger = () => {
     return (
         <div>
-            <h1>Cheese</h1>
+            <h1>Cheeseburger</h1>
         </div>
     )
  }
